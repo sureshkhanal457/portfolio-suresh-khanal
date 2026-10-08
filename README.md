@@ -1,6 +1,6 @@
 # Suresh Upadhayay — React Portfolio
 
-Final project for the Frontend Development Training (Option D: Personal Portfolio).
+Final project for the Frontend Development Training ( Personal Portfolio).
 Built with **React 18**, **Tailwind CSS 4**, **React Router 6** (`createBrowserRouter`), **Lucide icons** and **Vite**.
 No backend; all content is mock data in `src/data/data.js`.
 
@@ -41,10 +41,4 @@ src/
 | Forms | controlled inputs in `ContactForm.jsx` |
 | Router | `createBrowserRouter`, `Outlet`, `Link`, `NavLink` |
 
-## Before you submit
-Search the project for `CHANGE ME` in `src/data/data.js` and replace the placeholders
-(photo, email, phone, GitHub, LinkedIn, college names, project links).
 
-## Deploy
-Push to GitHub, then import the repo in Vercel or Netlify (build command `npm run build`, output folder `dist`).
-`public/_redirects` (Netlify) and `vercel.json` (Vercel) make page refresh work on routes like `/projects`.
