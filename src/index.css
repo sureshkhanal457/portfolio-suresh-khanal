@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Make the default border colour light gray (Tailwind 4 uses a dark colour) */
+@layer base {
+  * {
+    border-color: var(--color-gray-200);
+  }
+}
