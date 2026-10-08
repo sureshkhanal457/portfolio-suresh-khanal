@@ -31,7 +31,7 @@ export default function Footer() {
       </div>
 
       <p className="text-center text-sm py-4 border-t border-gray-700">
-        © 2026 {profile.name}. Student project.
+        © 2026 {profile.name}. 
       </p>
     </footer>
   );
